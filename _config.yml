@@ -1,4 +1,4 @@
 title: Nkwantabisa Joseph
 logo: /assets/img/profile.png
 show_downloads: true
-remote_theme: pages-themes/hacker
+theme: jekyll-theme-lagom
